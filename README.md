@@ -1,2 +1,5 @@
 # Dreamer-Cafe
-Iseng iseng html, css, with a tiny bit of js cafe website. 
+A fully responsive HTML, CSS, and tiny bit of JS cafe site.
+https://dreamer-cafe.netlify.app/
+
+Just iseng iseng
